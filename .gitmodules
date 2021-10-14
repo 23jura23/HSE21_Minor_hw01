@@ -1,0 +1,3 @@
+[submodule "investpy2"]
+	path = investpy
+	url = git@github.com:23jura23/investpy.git
